@@ -4,4 +4,21 @@ CREATE REPOSITORY
 2. git remote add origin https://github.com/AlfaBarri15/Git-Tutorial.git
 
 
+TO ADD FILES TO STAGING AREA: 
+- git add <filename>
+- git add .             *** IMPORTANT NEVER SPAM THIS COMMAND: add all files
+- git add -u 
 
+
+COMMIT CHANGES:
+- git commit -m "YOUR MESSAGE HERE"
+
+TO REVIEW ALL COMMITS
+- git log 
+
+REMOTE
+git remote -v: shows all remote associated with project
+
+SYNCING CHANGES WITH REMOTE 
+git pull <remote> <branch>
+git push <remote> <branch> 
