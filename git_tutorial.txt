@@ -20,11 +20,21 @@ REMOTE
 git remote -v: shows all remote associated with project
 
 SYNCING CHANGES WITH REMOTE 
-git pull <remote> <branch>
 git push <remote> <branch>
+git pull <remote> <branch>
+
+
+CONFLICT MANAGEMENT 
+1. commit all your current changes
+2. git pull <remote> <branch>
+3. 
 
 Bonjourlut
 Yo mamam fat
 Nibba
 This is serious
 Sa
+
+
+o - o - o - o local version
+o - o - o - o remote version
