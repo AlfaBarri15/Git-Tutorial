@@ -14,11 +14,17 @@ COMMIT CHANGES:
 - git commit -m "YOUR MESSAGE HERE"
 
 TO REVIEW ALL COMMITS
-- git log 
+- git log (q to quit)
 
 REMOTE
 git remote -v: shows all remote associated with project
 
 SYNCING CHANGES WITH REMOTE 
 git pull <remote> <branch>
-git push <remote> <branch> 
+git push <remote> <branch>
+
+Bonjourlut
+Yo mamam fat
+Nibba
+This is serious
+Sa
