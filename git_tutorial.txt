@@ -1,0 +1,14 @@
+1. git init
+2. git remote add origin https://github.com/AlfaBarri15/Git-Tutorial.git
+
+IMPORTANT: git status
+
+To add files to staging area: TRES MINICIEUSEMENT
+- git add <filename>
+- git add .             add files*** IMPORTANT NEVER SPAM THIS COMMAND
+- git add -u 
+
+git remote -v: shows all remote associated with project
+
+git pull <remote> <branch>
+git push <remote> <branch> 
